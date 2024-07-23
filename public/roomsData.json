@@ -55,7 +55,7 @@
     "details": {
       "Beds": "2",
       "Fans": "2",
-      "Size": "1000 sq. ft.",
+      "Size": "500 sq. ft.",
       "Occupancy": "2 adult",
       "Bathroom": "1",
       "Toilet": "1",
@@ -71,7 +71,7 @@
     "details": {
       "Beds": "2",
       "Fans": "3",
-      "Size": "1200 sq. ft.",
+      "Size": "525 sq. ft.",
       "Occupancy": "2 adults",
       "Bathroom": "1",
       "Toilet": "1",
@@ -87,7 +87,7 @@
     "details": {
       "Beds": "2",
       "Fans": "4",
-      "Size": "1500 sq. ft.",
+      "Size": "550 sq. ft.",
       "Occupancy": "Up to 3 adults or 2 adults",
       "Bathroom": "2",
       "Toilet": "1",
@@ -103,7 +103,7 @@
     "details": {
       "Beds": "4",
       "Fans": "4",
-      "Size": "1500 sq. ft.",
+      "Size": "575 sq. ft.",
       "Occupancy": "Up to 3 adults or 2 adults and 2 children",
       "Bathroom": "2",
       "Toilet": "2",
@@ -119,7 +119,7 @@
     "details": {
       "Beds": "4",
       "Fans": "4",
-      "Size": "1800 sq. ft.",
+      "Size": "600 sq. ft.",
       "Occupancy": "Up to 3 adults or 2 adults and 2 children",
       "Bathroom": "2",
       "Toilet": "2",
@@ -135,7 +135,7 @@
     "details": {
       "Beds": "4",
       "Fans": "4",
-      "Size": "2000 sq. ft.",
+      "Size": "600 sq. ft.",
       "Occupancy": "Up to 3 adults or 2 adults and 2 children",
       "Bathroom": "2",
       "Toilet": "2",
@@ -151,7 +151,7 @@
     "details": {
       "Beds": "4",
       "Fans": "4",
-      "Size": "1500 sq. ft.",
+      "Size": "600 sq. ft.",
       "Occupancy": "Up to 3 adults or 2 adults and 2 children",
       "Bathroom": "2",
       "Toilet": "2",
@@ -167,7 +167,7 @@
     "details": {
       "Beds": "7",
       "Fans": "9",
-      "Size": "1500 sq. ft.",
+      "Size": "600 sq. ft.",
       "Occupancy": "Up to 3 adults or 2 adults and 2 children",
       "Bathroom": "2",
       "Toilet": "2",
@@ -183,7 +183,7 @@
     "details": {
       "Beds": "7",
       "Fans": "9",
-      "Size": "1500 sq. ft.",
+      "Size": "600 sq. ft.",
       "Occupancy": "Up to 3 adults or 2 adults and 2 children",
       "Bathroom": "2",
       "Toilet": "2",
