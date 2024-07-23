@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(cors());
 
 // Connect to MongoDB
-mongoose.connect('mongodb+srv://patelutkarsh9233:Rc0fv0UiCPDLQmuo@cluster0.luxlcjz.mongodb.net/booking?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://<username/password>.luxlcjz.mongodb.net/booking?retryWrites=true&w=majority', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })
