@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "imageSrc": "/images/Single_Economy.png",
+    "price": 200,
+    "title": "Single Economy",
+    "details": {
+      "Beds": "1",
+      "Fans": "1",
+      "Size": "200 sq. ft.",
+      "Occupancy": "1 adult",
+      "Bathroom": "1",
+      "Toilet": "1",
+      "TV": "No",
+      "Kitchenette": "No"
+    }
+  },
+  {
+    "id": 2,
+    "imageSrc": "/images/Single_Basic.png",
+    "price": 300,
+    "title": "Single Basic",
+    "details": {
+      "Beds": "1",
+      "Fans": "1",
+      "Size": "500 sq. ft.",
+      "Occupancy": "1 adult",
+      "Bathroom": "1",
+      "Toilet": "1",
+      "TV": "No",
+      "Kitchenette": "No"
+    }
+  },
+  {
+    "id": 3,
+    "imageSrc": "/images/Single_Standard.png",
+    "price": 500,
+    "title": "Single Standard",
+    "details": {
+      "Beds": "1",
+      "Fans": "3",
+      "Size": "1000 sq. ft.",
+      "Occupancy": "1 adult",
+      "Bathroom": "1",
+      "Toilet": "1",
+      "TV": "32 - inch LED TV",
+      "Kitchenette": "1"
+    }
+  },
+  {
+    "id": 4,
+    "imageSrc": "/images/Double_Economy.png",
+    "price": 600,
+    "title": "Double Economy",
+    "details": {
+      "Beds": "2",
+      "Fans": "2",
+      "Size": "1000 sq. ft.",
+      "Occupancy": "2 adult",
+      "Bathroom": "1",
+      "Toilet": "1",
+      "TV": "No",
+      "Kitchenette": "No"
+    }
+  },
+  {
+    "id": 5,
+    "imageSrc": "/images/Double_Basic.png",
+    "price": 800,
+    "title": "Double Basic",
+    "details": {
+      "Beds": "2",
+      "Fans": "3",
+      "Size": "1200 sq. ft.",
+      "Occupancy": "2 adults",
+      "Bathroom": "1",
+      "Toilet": "1",
+      "TV": "No",
+      "Kitchenette": "No"
+    }
+  },
+  {
+    "id": 6,
+    "imageSrc": "/images/Double_Standard.png",
+    "price": 1000,
+    "title": "Double Standard",
+    "details": {
+      "Beds": "2",
+      "Fans": "4",
+      "Size": "1500 sq. ft.",
+      "Occupancy": "Up to 3 adults or 2 adults",
+      "Bathroom": "2",
+      "Toilet": "1",
+      "TV": "55 - inch LED TV",
+      "Kitchenette": "1"
+    }
+  },
+  {
+    "id": 7,
+    "imageSrc": "/images/Family_Economy.png",
+    "price": 2000,
+    "title": "Family Economy",
+    "details": {
+      "Beds": "4",
+      "Fans": "4",
+      "Size": "1500 sq. ft.",
+      "Occupancy": "Up to 3 adults or 2 adults and 2 children",
+      "Bathroom": "2",
+      "Toilet": "2",
+      "TV": "No",
+      "Kitchenette": "No"
+    }
+  },
+  {
+    "id": 8,
+    "imageSrc": "/images/Family_Basic.png",
+    "price": 3000,
+    "title": "Family Basic",
+    "details": {
+      "Beds": "4",
+      "Fans": "4",
+      "Size": "1800 sq. ft.",
+      "Occupancy": "Up to 3 adults or 2 adults and 2 children",
+      "Bathroom": "2",
+      "Toilet": "2",
+      "TV": "55 - inch LED TV",
+      "Kitchenette": "No"
+    }
+  },
+  {
+    "id": 9,
+    "imageSrc": "/images/Family_Standard.png",
+    "price": 5000,
+    "title": "Family Standard",
+    "details": {
+      "Beds": "4",
+      "Fans": "4",
+      "Size": "2000 sq. ft.",
+      "Occupancy": "Up to 3 adults or 2 adults and 2 children",
+      "Bathroom": "2",
+      "Toilet": "2",
+      "TV": "55 - inch LED TV",
+      "Kitchenette": "1"
+    }
+  },
+  {
+    "id": 10,
+    "imageSrc": "/images/Double_Deluxe.png",
+    "price": 6000,
+    "title": "Double Deluxe",
+    "details": {
+      "Beds": "4",
+      "Fans": "4",
+      "Size": "1500 sq. ft.",
+      "Occupancy": "Up to 3 adults or 2 adults and 2 children",
+      "Bathroom": "2",
+      "Toilet": "2",
+      "TV": "55 - inch LED TV",
+      "Kitchenette": "1"
+    }
+  },
+  {
+    "id": 11,
+    "imageSrc": "/images/Family_Deluxe.png",
+    "price": 8000,
+    "title": "Family Deluxe",
+    "details": {
+      "Beds": "7",
+      "Fans": "9",
+      "Size": "1500 sq. ft.",
+      "Occupancy": "Up to 3 adults or 2 adults and 2 children",
+      "Bathroom": "2",
+      "Toilet": "2",
+      "TV": "55 - inch LED TV",
+      "Kitchenette": "1"
+    }
+  },
+  {
+    "id": 12,
+    "imageSrc": "/images/home_room.png",
+    "price": 10000,
+    "title": "Presidential Deluxe",
+    "details": {
+      "Beds": "7",
+      "Fans": "9",
+      "Size": "1500 sq. ft.",
+      "Occupancy": "Up to 3 adults or 2 adults and 2 children",
+      "Bathroom": "2",
+      "Toilet": "2",
+      "TV": "55 - inch LED TV",
+      "Kitchenette": "1"
+    }
+  }
+]
