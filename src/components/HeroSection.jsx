@@ -14,7 +14,7 @@ const HeroSection = () => {
       <div className="bg-black bg-opacity-50 p-10 rounded-lg text-center">
         <h1 className="text-6xl md:text-8xl font-bold mb-4">Luxurious Rooms</h1>
         <p className="text-xl md:text-2xl mb-6">
-          Deluxe Rooms Starting At Rs. 10,000 /-
+          Deluxe Rooms Starting At Rs. 5,000 /-
         </p>
         <button
           className="bg-red-500 hover:bg-red-600 text-white font-semibold py-4 px-8 rounded-xl text-lg"
