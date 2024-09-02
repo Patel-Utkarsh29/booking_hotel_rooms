@@ -29,28 +29,7 @@ const BookingData = () => {
       });
   }, []); 
 
-  const handleEdit = (id) => {
-   
-    console.log('Edit clicked for:', id);
-    
-  };
-
-  const handleDelete = async (id) => {
-    try {
-      const response = await fetch(`http://localhost:5005/api/bookings/${id}`, {
-        method: 'DELETE',
-      });
-      if (response.ok) {
-        setData(data.filter(booking => booking._id !== id)); 
-        alert('Booking deleted successfully.');
-      } else {
-        const errorText = await response.text();
-        throw new Error(`HTTP error! status: ${response.status}, message: ${errorText}`);
-      }
-    } catch (error) {
-      alert('Error deleting booking: ' + error.message);
-    }
-  };
+  
 
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Error: {error.message}</p>;
