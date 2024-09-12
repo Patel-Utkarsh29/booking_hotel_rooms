@@ -17,8 +17,11 @@ function Login() {
       });
       const result = await response.json();
       if (response.ok) {
-        // Redirect to HomePage
-        window.location.href = 'http://localhost:3000/homepage';
+        if (email === 'admin@gmail.com' && password === 'admin123') {
+          window.location.href = 'http://localhost:3000/admin';
+        } else {
+          window.location.href = 'http://localhost:3000/homepage';
+        }
       } else {
         setError(result.message);
       }
@@ -48,3 +51,4 @@ function Login() {
 }
 
 export default Login;
+
